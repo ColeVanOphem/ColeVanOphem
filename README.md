@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ColeVanOphem
+- 👋 Hi, I’m Cole VanOphem
 - 📚 I’m currently studying computer science 💻 at Michigan State University 
 
 <!---
