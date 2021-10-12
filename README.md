@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ColeVanOphem
-- 👀 I’m interested in computer science 💻
-- 📚 I’m currently learning physics 🚀 😭
+- 📚 I’m currently studying computer science 💻 at Michigan State University 
 
 <!---
 ColeVanOphem/ColeVanOphem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
