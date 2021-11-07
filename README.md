@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cole VanOphem
-- 📚 I’m currently studying computer science 💻 at Michigan State University 
+- 📚 I’m computer science student at Michigan State University 
 
 <!---
 ColeVanOphem/ColeVanOphem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
