@@ -10,7 +10,7 @@ I’m a computer science student at the University of Michigan, studying in the 
 
 ---
 
-🔎 If you're here looking for some of my projects, please send me an email so I can add you to the private repository!
+🔎 If you're here looking for some of my projects, please send me an [email](nvano@umich.edu) so I can add you to the private repository!
 
 
 <!---
