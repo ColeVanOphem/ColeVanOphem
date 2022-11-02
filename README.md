@@ -4,14 +4,13 @@ I’m a computer science student at the University of Michigan, studying in the 
 ## About
 📚 I'm currently learning C++, Data Structures and Algorithms, and Spanish
 
-💬 Ask me about city planning and urban design!
+🔭 I'm currently working on course projects, leetcode problems, and personal projects
 
-🔭 I'm currently working on passing courses 😅😳
+📫 How to reach me: nvano@umich.edu
 
 ---
 
-🔎 If you're here looking for some of my projects, please send me an [email](mailto:nvano@umich.edu) so I can add you to the private repository!
-
+🔎 If you're here looking for some of my projects, please send me an email so I can add you to the private repository!
 
 <!---
 ColeVanOphem/ColeVanOphem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
