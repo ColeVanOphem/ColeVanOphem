@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Cole VanOphem
-I’m a computer science student at the University of Michigan, studying in the College of Literature Science and the Arts.
+I’m a computer science student at the University of Michigan interested in pursuing a career in Software Engineering.
 
 ## About
-📚 I'm currently learning C++, Data Structures and Algorithms, and Spanish
+📚 I am currently learning C++, Data Structures and Algorithms, and Spanish
 
 🔭 I'm currently working on course projects, leetcode problems, and personal projects
 
@@ -10,7 +10,7 @@ I’m a computer science student at the University of Michigan, studying in the 
 
 ---
 
-🔎 If you're here looking for some of my projects, please send me an email so I can add you to the private repository!
+🔎 Most of my projects are in private repositories, but I'm happy to share if you send me an email!
 
 <!---
 ColeVanOphem/ColeVanOphem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
