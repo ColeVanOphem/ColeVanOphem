@@ -6,7 +6,7 @@ I’m a computer science student at the University of Michigan interested in pur
 
 🔭 I'm currently working on course projects, leetcode problems, and personal projects
 
-📫 How to reach me: nvano@umich.edu
+📫 How to reach me: nvano@umich.edu https://www.linkedin.com/in/cole-vanophem/
 
 ---
 
