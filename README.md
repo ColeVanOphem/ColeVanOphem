@@ -12,7 +12,7 @@ I’m a computer science student at the University of Michigan interested in pur
 
 ---
 
-🔎 Most of my projects are in private repositories, but I'm happy to share if you send me an email!
+🔎 Unfortunately, I have to keep many of my projects in private repositories. If you'd still like to take a look, just send me an email!
 
 <!---
 ColeVanOphem/ColeVanOphem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
