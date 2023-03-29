@@ -2,7 +2,7 @@
 I’m a computer science student at the University of Michigan interested in pursuing a career in Software Engineering.
 
 ## About
-📚 I am currently learning C++, Data Structures and Algorithms, and Spanish
+📚 I am currently learning C++, Data Structures and Algorithms, Theoretical Computer Science, and Spanish
 
 🔭 I'm currently working on course projects, leetcode problems, and personal projects
 
