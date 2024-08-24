@@ -10,9 +10,6 @@ I’m a computer science student at the University of Michigan interested in pur
 - Email: nvano@umich.edu 
 - LinkedIn: https://www.linkedin.com/in/cole-vanophem/
 
----
-
-🔎 Unfortunately, I have to keep many of my projects in private repositories. If you'd still like to take a look, just send me an email!
 
 <!---
 ColeVanOphem/ColeVanOphem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
