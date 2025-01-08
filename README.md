@@ -2,7 +2,7 @@
 I’m a computer science student at the University of Michigan interested in pursuing a career in Software Engineering.
 
 ## About
-📚 I am currently learning C++, Go, distributed systems, computer networks, and linear algebra!
+📚 I am currently learning Go, distributed systems, machine learning, modern algebra, and combinatorics!
 
 🔭 I'm currently working on course projects, personal projects, homework, reading, and more
 
