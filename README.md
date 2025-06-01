@@ -1,10 +1,14 @@
 # 👋 Hi, I’m Cole VanOphem
-I’m a computer science student at the University of Michigan interested in pursuing a career in Software Engineering.
+I’m a software engineer.
 
+🎓 I recently graduated with my computer science degree from the University of Michigan. Go Blue! 〽️🎉
+
+<!--
 ## About
 📚 I am currently learning Go, distributed systems, machine learning, modern algebra, and combinatorics!
 
 🔭 I'm currently working on course projects, personal projects, homework, reading, and more
+-->
 
 📫 How to reach me: 
 - Email: nvano@umich.edu 
