@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Cole VanOphem
 I’m a software engineer.
 
+🔭 I’m currently working on Starship software at SpaceX 🚀🌒
+
 🎓 I recently graduated with my computer science degree from the University of Michigan. Go Blue! 〽️🎉
 
 <!--
